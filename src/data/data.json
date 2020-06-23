@@ -1,0 +1,38 @@
+{
+        "profiles":[
+            {
+            "list":{
+                "name":"Nasarvali",
+                "role":"1025658",
+                "address":"Hyderabad",
+                "career":"To work in an environment where I can utilize my skills.",
+                "table":[
+                    {"sno":"1","college":"xyz college of engineering","branch":"ece"},
+                    {"sno":"2","college":"xyz college of engineering","branch":"eee"},
+                    {"sno":"3","college":"xyz college of engineering","branch":"cse"}
+                ],
+                "skills":["html5","css3","angular","react"],
+                "hobbies":["playing cricket","reading books"],
+                "declaration":"I here declared that above information is correct and hope you reply soon."
+              }
+            },
+            {
+            "list":{
+                "name":"Basha",
+                "role":"2010132",
+                "address":"Chennai",
+                "career":"To work in an environment where I can utilize my skills.",
+                "table":[
+                    {"sno":"1","college":"xyz college of engineering","branch":"ece"},
+                    {"sno":"2","college":"xyz college of engineering","branch":"eee"},
+                    {"sno":"3","college":"xyz college of engineering","branch":"cse"}
+                ],
+                "skills":["html5","css3","angular","react"],
+                "hobbies":["playing cricket","reading books"],
+                "declaration":"I here declared that above information is correct and hope you reply soon."
+    
+            }
+        }
+        ]
+   
+}
